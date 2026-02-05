@@ -1,10 +1,10 @@
-# ¡Hola! 👋 Soy [Adrián Domínguez Obrero]
+# ¡Hola! 👋 Soy Adrián Domínguez Obrero
 
 ## 🚀 Sobre Mí
 
 Soy estudiante de **[Desarrollo de Aplicaciones Web]** apasionado/a por la tecnología y el desarrollo de software. Me encanta aprender nuevas tecnologías y trabajar en proyectos innovadores.
 
-- 🔭 Actualmente trabajando en: **[Un proyecto (GymTracker)]**
+- 🔭 Actualmente trabajando en: **Un proyecto (GymTracker)**
 - 🌱 Aprendiendo: **[Desarrollo de Aplicaciones Web]**
 - 👯 Buscando colaborar en: **Proyectos educativos y open source**
 - 💬 Pregúntame sobre: **[resolución de problemas, adaptabilidad, trabajo en equipo]**
