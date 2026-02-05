@@ -2,12 +2,12 @@
 
 ## 🚀 Sobre Mí
 
-Soy estudiante de **[Desarrollo de Aplicaciones Web]** apasionado/a por la tecnología y el desarrollo de software. Me encanta aprender nuevas tecnologías y trabajar en proyectos innovadores.
+Soy estudiante de **Desarrollo de Aplicaciones Web** apasionado/a por la tecnología y el desarrollo de software. Me encanta aprender nuevas tecnologías y trabajar en proyectos innovadores.
 
 - 🔭 Actualmente trabajando en: **Un proyecto (GymTracker)**
-- 🌱 Aprendiendo: **[Desarrollo de Aplicaciones Web]**
+- 🌱 Aprendiendo: **Desarrollo de Aplicaciones Web**
 - 👯 Buscando colaborar en: **Proyectos educativos y open source**
-- 💬 Pregúntame sobre: **[resolución de problemas, adaptabilidad, trabajo en equipo]**
+- 💬 Pregúntame sobre: **Resolución de problemas, adaptabilidad, trabajo en equipo**
 - 📫 Cómo contactarme: **adrian.dominguez.ob@gmail.com**
 - ⚡ Dato curioso: **Consigo lo que me propongo**
 
@@ -42,7 +42,7 @@ Soy estudiante de **[Desarrollo de Aplicaciones Web]** apasionado/a por la tecno
 
 ## 🏆 Mis Proyectos Destacados
 
-### 📁 [GymTracker]
+### 📁 GymTracker
 > Breve descripción de tu proyecto más importante
 
 - 🔗 [Ver repositorio](https://github.com/adriprogramacion0601-debug/GymTracker)
@@ -52,17 +52,17 @@ Soy estudiante de **[Desarrollo de Aplicaciones Web]** apasionado/a por la tecno
 
 ## 🎓 Educación
 
-- 📚 **[IES Camas Antonio-Brisquet]**
-  - [Desarrollo de Aplicaciones Web]
-  - Año: [2025-2027]
+- 📚 **IES Camas Antonio-Brisquet**
+  - Desarrollo de Aplicaciones Web
+  - Año: 2025-2027
 
-- 📚 **[IES Camas Antonio-Brisquet]**
-  - [Sistemas Microinformáticos y Redes]
-  - Año: [2023-2025]
+- 📚 **IES Camas Antonio-Brisquet**
+  - Sistemas Microinformáticos y Redes
+  - Año: 2023-2025
 
-- 📚 **[IES Alixar]**
-  - [ESO]
-  - Año: [2019-2023]
+- 📚 **IES Alixar**
+  - ESO
+  - Año: 2019-2023
 
 ---
 
