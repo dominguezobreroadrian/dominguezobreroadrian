@@ -43,7 +43,7 @@ Soy estudiante de **Desarrollo de Aplicaciones Web** apasionado/a por la tecnolo
 ## 🏆 Mis Proyectos Destacados
 
 ### 📁 GymTracker
-> Breve descripción de tu proyecto más importante
+> Breve descripción de mi proyecto más importante
 
 - 🔗 [Ver repositorio](https://github.com/adriprogramacion0601-debug/GymTracker)
 - 💻 Tecnologías: Python, Django, SQLite, GitHub, VSC, Entorno Virtual(venv)
